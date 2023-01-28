@@ -1,0 +1,15 @@
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/bin/Debug/net6.0/Example003
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/bin/Debug/net6.0/Example003.deps.json
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/bin/Debug/net6.0/Example003.dll
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/bin/Debug/net6.0/ref/Example003.dll
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/bin/Debug/net6.0/Example003.pdb
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.dll
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/ref/Example003.dll
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.pdb
+/Users/SergeyK/Desktop/УЧЕБА IT/C#/Examples/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
